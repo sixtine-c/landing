@@ -1,0 +1,24 @@
+.footer {
+  background-color: #2C2B2B;
+  height: 180px;
+  text-align: center;
+}
+
+.footer > p {
+  color: #6B6C6C;
+  font-size: 20px;
+}
+
+.social-medias {
+  color: #6AD58B;
+  font-size: 30px;
+  list-style: none;
+  padding-left: 0px;
+
+}
+
+.social-medias li {
+  display: inline-block;
+  padding: 0px 10px;
+  margin-top: 25px;
+}
